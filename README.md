@@ -8,7 +8,7 @@
 
 **OOYL: Respawn Sci-Fi** is a 2D top-down tactical sci-fi shooter and geometric action-puzzle game built in Unity using the Universal Render Pipeline (URP) 2D. Set inside an isometric sci-fi spaceport complex, players must master mathematical ricochet ballistics, real-time trajectory telemetry, and localized time dilation to outsmart enemy patrols, defeat bosses, and rescue the Princess across 6 challenging sectors.
 
----
+----
 
 ## ✨ Key Gameplay Features
 
@@ -20,7 +20,7 @@
 * **🎬 Cinematic Intro & 6 Unique Sectors:** Begins with an integrated cinematic briefing (`SolarisStartVid.mp4` via `IntroVideoPlayer.cs`) followed by 6 distinct levels (`Level1` through `Level6`).
 * **🛠️ Custom Unity Editor Tooling:** Includes dedicated automated scene and prefab setup builders in `Assets/Scripts/Editor/` for rapid prototyping and one-click component configuration.
 
----
+--- -
 
 ## 🗂️ Repository Architecture
 
@@ -139,3 +139,5 @@ A core pillar of **OOYL: Respawn Sci-Fi** is its deterministic bounce physics:
 ## 📄 License
 
 This project is licensed under the MIT License — see the credits files inside `Assets/Sprites/` for individual asset attribution requirements.
+
+Thank You!
